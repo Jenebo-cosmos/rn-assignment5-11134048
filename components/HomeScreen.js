@@ -32,7 +32,7 @@ const HomeScreen = () => {
       <View style={styles.header}>
         <Image source={profile} />
         <Text style={styles.txt1}>Welcome back,</Text>
-        <Text style={[styles.txt2, { color: theme.textColor }]}>Jenebo</Text>
+        <Text style={[styles.txt2, { color: theme.textColor }]}>Samson</Text>
         <View style={[styles.search1, { backgroundColor: theme.theme }]}>
           <Image
             source={search}
